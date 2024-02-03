@@ -1,0 +1,119 @@
+H:\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.csproj.AssemblyReference.cache
+H:\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfoInputs.cache
+H:\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfo.cs
+H:\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\bin\Debug\net6.0\servicesLib.deps.json
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\bin\Debug\net6.0\servicesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\bin\Debug\net6.0\servicesLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\bin\Debug\net6.0\interfacesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\bin\Debug\net6.0\modelsLib.dll
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\bin\Debug\net6.0\interfacesLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\bin\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.csproj.AssemblyReference.cache
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfoInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfo.cs
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CopyComplete
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\obj\Debug\net6.0\refint\servicesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\obj\Debug\net6.0\ref\servicesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\bin\Debug\net6.0\FileService.dll
+D:\שנה ב\wec api\MyProject-Ora\servicesLib\bin\Debug\net6.0\FileService.pdb
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\bin\Debug\net6.0\servicesLib.deps.json
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\bin\Debug\net6.0\servicesLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\bin\Debug\net6.0\servicesLib.pdb
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\bin\Debug\net6.0\FileService.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\bin\Debug\net6.0\interfacesLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\bin\Debug\net6.0\modelsLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\bin\Debug\net6.0\interfacesLib.pdb
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\bin\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\bin\Debug\net6.0\FileService.pdb
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.csproj.AssemblyReference.cache
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfoInputs.cache
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfo.cs
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CopyComplete
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\obj\Debug\net6.0\refint\servicesLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.pdb
+D:\שנה ב\server\פרויקטים\MyProject-Ora\servicesLib\obj\Debug\net6.0\ref\servicesLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\bin\Debug\net6.0\servicesLib.deps.json
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\bin\Debug\net6.0\servicesLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\bin\Debug\net6.0\servicesLib.pdb
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\bin\Debug\net6.0\FileService.dll
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\bin\Debug\net6.0\interfacesLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\bin\Debug\net6.0\modelsLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\bin\Debug\net6.0\interfacesLib.pdb
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\bin\Debug\net6.0\modelsLib.pdb
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\bin\Debug\net6.0\FileService.pdb
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfo.cs
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CopyComplete
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\obj\Debug\net6.0\refint\servicesLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\obj\Debug\net6.0\servicesLib.pdb
+C:\Users\The user\Desktop\MyProject-Ora\servicesLib\obj\Debug\net6.0\ref\servicesLib.dll
+H:\שרי כהן SERVER  less5\servicesLib\bin\Debug\net6.0\servicesLib.deps.json
+H:\שרי כהן SERVER  less5\servicesLib\bin\Debug\net6.0\servicesLib.dll
+H:\שרי כהן SERVER  less5\servicesLib\bin\Debug\net6.0\servicesLib.pdb
+H:\שרי כהן SERVER  less5\servicesLib\bin\Debug\net6.0\FileService.dll
+H:\שרי כהן SERVER  less5\servicesLib\bin\Debug\net6.0\interfacesLib.dll
+H:\שרי כהן SERVER  less5\servicesLib\bin\Debug\net6.0\modelsLib.dll
+H:\שרי כהן SERVER  less5\servicesLib\bin\Debug\net6.0\interfacesLib.pdb
+H:\שרי כהן SERVER  less5\servicesLib\bin\Debug\net6.0\modelsLib.pdb
+H:\שרי כהן SERVER  less5\servicesLib\bin\Debug\net6.0\FileService.pdb
+H:\שרי כהן SERVER  less5\servicesLib\obj\Debug\net6.0\servicesLib.csproj.AssemblyReference.cache
+H:\שרי כהן SERVER  less5\servicesLib\obj\Debug\net6.0\servicesLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\שרי כהן SERVER  less5\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfoInputs.cache
+H:\שרי כהן SERVER  less5\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfo.cs
+H:\שרי כהן SERVER  less5\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CoreCompileInputs.cache
+H:\שרי כהן SERVER  less5\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CopyComplete
+H:\שרי כהן SERVER  less5\servicesLib\obj\Debug\net6.0\servicesLib.dll
+H:\שרי כהן SERVER  less5\servicesLib\obj\Debug\net6.0\refint\servicesLib.dll
+H:\שרי כהן SERVER  less5\servicesLib\obj\Debug\net6.0\servicesLib.pdb
+H:\שרי כהן SERVER  less5\servicesLib\obj\Debug\net6.0\ref\servicesLib.dll
+H:\שנה ב\server\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.dll
+H:\שנה ב\server\SarisPizzaProject\servicesLib\obj\Debug\net6.0\refint\servicesLib.dll
+H:\שנה ב\server\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.pdb
+H:\שנה ב\server\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.csproj.AssemblyReference.cache
+H:\שנה ב\server\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\server\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfoInputs.cache
+H:\שנה ב\server\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfo.cs
+H:\שנה ב\server\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CoreCompileInputs.cache
+H:\שנה ב\server\SarisPizzaProject\servicesLib\bin\Debug\net6.0\servicesLib.deps.json
+H:\שנה ב\server\SarisPizzaProject\servicesLib\bin\Debug\net6.0\servicesLib.dll
+H:\שנה ב\server\SarisPizzaProject\servicesLib\bin\Debug\net6.0\servicesLib.pdb
+H:\שנה ב\server\SarisPizzaProject\servicesLib\bin\Debug\net6.0\FileService.dll
+H:\שנה ב\server\SarisPizzaProject\servicesLib\bin\Debug\net6.0\interfacesLib.dll
+H:\שנה ב\server\SarisPizzaProject\servicesLib\bin\Debug\net6.0\modelsLib.dll
+H:\שנה ב\server\SarisPizzaProject\servicesLib\bin\Debug\net6.0\interfacesLib.pdb
+H:\שנה ב\server\SarisPizzaProject\servicesLib\bin\Debug\net6.0\modelsLib.pdb
+H:\שנה ב\server\SarisPizzaProject\servicesLib\bin\Debug\net6.0\FileService.pdb
+H:\שנה ב\server\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CopyComplete
+H:\שנה ב\server\SarisPizzaProject\servicesLib\obj\Debug\net6.0\ref\servicesLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\bin\Debug\net6.0\servicesLib.deps.json
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\bin\Debug\net6.0\servicesLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\bin\Debug\net6.0\servicesLib.pdb
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\bin\Debug\net6.0\FileService.dll
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\bin\Debug\net6.0\interfacesLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\bin\Debug\net6.0\modelsLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\bin\Debug\net6.0\interfacesLib.pdb
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\bin\Debug\net6.0\modelsLib.pdb
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\bin\Debug\net6.0\FileService.pdb
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.AssemblyInfo.cs
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.csproj.CopyComplete
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\obj\Debug\net6.0\refint\servicesLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\obj\Debug\net6.0\servicesLib.pdb
+C:\Users\The user\Desktop\SarisPizzaProject\servicesLib\obj\Debug\net6.0\ref\servicesLib.dll

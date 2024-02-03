@@ -1,0 +1,95 @@
+H:\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.AssemblyReference.cache
+H:\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfoInputs.cache
+H:\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfo.cs
+H:\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.AssemblyReference.cache
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfoInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfo.cs
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.deps.json
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\bin\Debug\net6.0\modelsLib.dll
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\bin\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CopyComplete
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\refint\interfacesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\ref\interfacesLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.deps.json
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.pdb
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\bin\Debug\net6.0\modelsLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\bin\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.AssemblyReference.cache
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfoInputs.cache
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfo.cs
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CopyComplete
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\obj\Debug\net6.0\refint\interfacesLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.pdb
+D:\שנה ב\server\פרויקטים\MyProject-Ora\interfacesLib\obj\Debug\net6.0\ref\interfacesLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.deps.json
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.pdb
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\bin\Debug\net6.0\modelsLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\bin\Debug\net6.0\modelsLib.pdb
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfo.cs
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CopyComplete
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\obj\Debug\net6.0\refint\interfacesLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.pdb
+C:\Users\The user\Desktop\MyProject-Ora\interfacesLib\obj\Debug\net6.0\ref\interfacesLib.dll
+H:\שרי כהן SERVER  less5\interfacesLib\bin\Debug\net6.0\interfacesLib.deps.json
+H:\שרי כהן SERVER  less5\interfacesLib\bin\Debug\net6.0\interfacesLib.dll
+H:\שרי כהן SERVER  less5\interfacesLib\bin\Debug\net6.0\interfacesLib.pdb
+H:\שרי כהן SERVER  less5\interfacesLib\bin\Debug\net6.0\modelsLib.dll
+H:\שרי כהן SERVER  less5\interfacesLib\bin\Debug\net6.0\modelsLib.pdb
+H:\שרי כהן SERVER  less5\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.AssemblyReference.cache
+H:\שרי כהן SERVER  less5\interfacesLib\obj\Debug\net6.0\interfacesLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\שרי כהן SERVER  less5\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfoInputs.cache
+H:\שרי כהן SERVER  less5\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfo.cs
+H:\שרי כהן SERVER  less5\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CoreCompileInputs.cache
+H:\שרי כהן SERVER  less5\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CopyComplete
+H:\שרי כהן SERVER  less5\interfacesLib\obj\Debug\net6.0\interfacesLib.dll
+H:\שרי כהן SERVER  less5\interfacesLib\obj\Debug\net6.0\refint\interfacesLib.dll
+H:\שרי כהן SERVER  less5\interfacesLib\obj\Debug\net6.0\interfacesLib.pdb
+H:\שרי כהן SERVER  less5\interfacesLib\obj\Debug\net6.0\ref\interfacesLib.dll
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\bin\Debug\net6.0\interfacesLib.deps.json
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\bin\Debug\net6.0\interfacesLib.dll
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\bin\Debug\net6.0\interfacesLib.pdb
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\bin\Debug\net6.0\modelsLib.dll
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\bin\Debug\net6.0\modelsLib.pdb
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.AssemblyReference.cache
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfoInputs.cache
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfo.cs
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CoreCompileInputs.cache
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CopyComplete
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.dll
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\refint\interfacesLib.dll
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.pdb
+H:\שנה ב\server\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\ref\interfacesLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\bin\Debug\net6.0\interfacesLib.deps.json
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\bin\Debug\net6.0\interfacesLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\bin\Debug\net6.0\interfacesLib.pdb
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\bin\Debug\net6.0\modelsLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\bin\Debug\net6.0\modelsLib.pdb
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfo.cs
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CopyComplete
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\refint\interfacesLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\interfacesLib.pdb
+C:\Users\The user\Desktop\SarisPizzaProject\interfacesLib\obj\Debug\net6.0\ref\interfacesLib.dll

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizza Shop Ora</title>
+</head>
+<link rel="stylesheet" href="./css/site.css">
+
+<body>
+    <h1 id="h1">HELLO TO OUR PIZZA PROJECT</h1>
+    <div id="theSite">
+        <table>
+            <thead>
+                <tr>
+                    <th>שם הפיצה</th>
+                    <th>?מתאימה לצליאקים</th>
+                    <th>מחיר</th>
+                    <th>קוד</th>
+                </tr>
+            </thead>
+            <tbody id="pizzatbody">
+            </tbody>
+        </table>
+        <div id="btns">
+            <button class="btn" onclick="Get()">לקבל את כל התפריט</button>
+            <button class="btn" onclick="GetId()">לקבל לפי קוד</button>
+            <button class="btn" onclick="Put()">עדכון פיצה</button>
+            <button class="btn" onclick="Post()">ליצור פיצה</button>
+            <button class="btn" onclick="Delete()">למחוק פיצה</button>
+        </div>
+        <div id="getId">
+            <h4>:ההזמנה שלך</h4>
+        </div>
+    </div>
+    <div id="container">
+        <form action="javascript:void(0);" id="formLogIn" method="POST" onsubmit="Login()">
+            <label for="usrname" class="coteret">שם משתמש</label>
+            <input type="text" id="usrname" name="usrname" required>
+            <label for="psw" class="coteret">סיסמא</label>
+            <input type="password" id="psw" name="psw" required>
+            <input type="submit" value="הכנס">
+        </form>
+    </div>
+</body>
+<script src="./js/site.js" asp-append-version="true"></script>
+</body>
+
+</html>

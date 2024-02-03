@@ -1,0 +1,76 @@
+H:\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.AssemblyReference.cache
+H:\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfoInputs.cache
+H:\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfo.cs
+H:\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.AssemblyReference.cache
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfoInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfo.cs
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.deps.json
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.dll
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.dll
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\refint\modelsLib.dll
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\ref\modelsLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.deps.json
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.AssemblyReference.cache
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfoInputs.cache
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfo.cs
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\obj\Debug\net6.0\refint\modelsLib.dll
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\server\פרויקטים\MyProject-Ora\modelsLib\obj\Debug\net6.0\ref\modelsLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.deps.json
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.pdb
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfo.cs
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\obj\Debug\net6.0\refint\modelsLib.dll
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.pdb
+C:\Users\The user\Desktop\MyProject-Ora\modelsLib\obj\Debug\net6.0\ref\modelsLib.dll
+H:\שרי כהן SERVER  less5\modelsLib\bin\Debug\net6.0\modelsLib.deps.json
+H:\שרי כהן SERVER  less5\modelsLib\bin\Debug\net6.0\modelsLib.dll
+H:\שרי כהן SERVER  less5\modelsLib\bin\Debug\net6.0\modelsLib.pdb
+H:\שרי כהן SERVER  less5\modelsLib\obj\Debug\net6.0\modelsLib.csproj.AssemblyReference.cache
+H:\שרי כהן SERVER  less5\modelsLib\obj\Debug\net6.0\modelsLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\שרי כהן SERVER  less5\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfoInputs.cache
+H:\שרי כהן SERVER  less5\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfo.cs
+H:\שרי כהן SERVER  less5\modelsLib\obj\Debug\net6.0\modelsLib.csproj.CoreCompileInputs.cache
+H:\שרי כהן SERVER  less5\modelsLib\obj\Debug\net6.0\modelsLib.dll
+H:\שרי כהן SERVER  less5\modelsLib\obj\Debug\net6.0\refint\modelsLib.dll
+H:\שרי כהן SERVER  less5\modelsLib\obj\Debug\net6.0\modelsLib.pdb
+H:\שרי כהן SERVER  less5\modelsLib\obj\Debug\net6.0\ref\modelsLib.dll
+H:\שנה ב\server\SarisPizzaProject\modelsLib\bin\Debug\net6.0\modelsLib.deps.json
+H:\שנה ב\server\SarisPizzaProject\modelsLib\bin\Debug\net6.0\modelsLib.dll
+H:\שנה ב\server\SarisPizzaProject\modelsLib\bin\Debug\net6.0\modelsLib.pdb
+H:\שנה ב\server\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\server\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfoInputs.cache
+H:\שנה ב\server\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfo.cs
+H:\שנה ב\server\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.csproj.CoreCompileInputs.cache
+H:\שנה ב\server\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.dll
+H:\שנה ב\server\SarisPizzaProject\modelsLib\obj\Debug\net6.0\refint\modelsLib.dll
+H:\שנה ב\server\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.pdb
+H:\שנה ב\server\SarisPizzaProject\modelsLib\obj\Debug\net6.0\ref\modelsLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\bin\Debug\net6.0\modelsLib.deps.json
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\bin\Debug\net6.0\modelsLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\bin\Debug\net6.0\modelsLib.pdb
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfo.cs
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\obj\Debug\net6.0\refint\modelsLib.dll
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\obj\Debug\net6.0\modelsLib.pdb
+C:\Users\The user\Desktop\SarisPizzaProject\modelsLib\obj\Debug\net6.0\ref\modelsLib.dll

@@ -1,0 +1,27 @@
+28/01/2024 02:50:04
+new order, details:
+ {"CostumerId":0,"CostumerName":"string","TotalPrice":500,"ListP":[{"Id":0,"Name":"string","Price":100000,"Gluten":true}],"CreditCardDetails":{"CardNumber":0,"CardDateYear":0,"Name":"string"}}
+thanks for buying in our shop!!
+28/01/2024 02:52:41
+new order, details:
+ {"CostumerId":1,"CostumerName":"Sari Cohen","TotalPrice":0,"ListP":[{"Id":1,"Name":"hot pizza","Price":5500,"Gluten":true}],"CreditCardDetails":{"CardNumber":25987642,"CardDateYear":2000,"Name":"moshe"}}
+thanks for buying in our shop!!
+
+28/01/2024 02:55:30
+new order, details:
+ {"CostumerId":2,"CostumerName":"David","TotalPrice":54,"ListP":[{"Id":5,"Name":"family with olive","Price":54,"Gluten":true}],"CreditCardDetails":{"CardNumber":98745652,"CardDateYear":2005,"Name":"David"}}
+thanks for buying in our shop!!
+
+
+28/01/2024 03:00:09
+new order, details:
+ {"CostumerId":2,"CostumerName":"Yael","TotalPrice":85,"ListP":[{"Id":1,"Name":"pizza 1","Price":45,"Gluten":true},{"Id":2,"Name":"pizza 2","Price":40,"Gluten":false}],"CreditCardDetails":{"CardNumber":7892122,"CardDateYear":2015,"Name":"Yael"}}
+thanks for buying in our shop!!
+
+
+28/01/2024 03:01:15
+new order, details:
+ {"CostumerId":0,"CostumerName":"juli","TotalPrice":0,"ListP":[{"Id":0,"Name":"string","Price":100000,"Gluten":true}],"CreditCardDetails":{"CardNumber":0,"CardDateYear":0,"Name":"string"}}
+thanks for buying in our shop!!
+
+
